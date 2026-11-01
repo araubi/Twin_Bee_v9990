@@ -1,0 +1,11 @@
+# ficheros del juego original: no se publican (cada uno pone los suyos)
+# original game files: not published (bring your own)
+src/ref/
+*.rom
+*.ROM
+*.vram
+# salidas de las builds / build outputs
+src/out/
+*.sym
+*.bin
+__pycache__/
